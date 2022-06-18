@@ -1,2 +1,2 @@
-# HTML-CSS-project
+# html-css-project
 Kingsland University Project
